@@ -1,5 +1,15 @@
 # bWELL 完全指导手册
 
+* [规律作息](#规律作息)
+* [平心静气](#平心静气)
+	* [方法](#方法)
+* [环保](#环保)
+* [读书](#读书)
+	* [推荐书籍](#推荐书籍)
+* [沟通](#沟通)
+* [CHANGELOG](#changelog)
+
+
 ## 规律作息
 * 早起：6：00AM
 * 早睡：10：00PM  
@@ -31,7 +41,10 @@
 	* [《生命之书》](https://book.douban.com/subject/6526752/)
   
 ## 环保
-%%待填充  
+1. 联合国官方给出的日常环保行动手册
+	* [改变从我做起](https://www.un.org/sustainabledevelopment/zh/be-the-change/)，覆盖面全，不止狭义环保，而是可持续发展的大方向。具体行动应该根据各国情况做调整。
+	* 贴心的的 [懒人的救世指南](https://www.un.org/sustainabledevelopment/zh/takeaction/)，精简许多，可以立即执行。
+2.  [Reina 环保守则](https://github.com/ReinaSuo/TopLife/blob/master/LogVIP.md) ，离我的生活更近，目标更精确，相当于一份习惯清单，有些比联合国标准更严格。
 
 ## 运动
 * 4h /week。任何形式都可以，瑜伽，跑步，跳舞，打球…    
@@ -78,4 +91,5 @@ e.g.
  
 ## CHANGELOG
 
-200313 01:44 Reina 创建
+* 200317 22:24 Reina 增补目录和 [环保](#环保) 内容
+* 200313 01:44 Reina 创建
