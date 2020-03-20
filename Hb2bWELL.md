@@ -17,8 +17,7 @@
    
 这应该是都市人最大的难题，可还是要努力呀~  
   
-我的高效指南：  [做个早起鸟儿]()  [有仪式感的跟自己晚安]()  %%待添加链接
-
+我的高效指南：[做个早起鸟儿](https://github.com/ReinaSuo/TopLife/blob/master/HbOrganizedMorning.md) 
 
 ## 平心静气
 * 早晚 20mins。第一次做，可从 5mins 起尝试。  
@@ -93,10 +92,11 @@ e.g.
 2. 善用 Ally 激励法  
 3. …  
   
-可参考我的 好习惯清单%%待添加链接  
+可参考我的 [好习惯清单](https://github.com/ReinaSuo/TopLife/blob/master/HbElegantHabit.md)  
  
 ## CHANGELOG
 
+* 200319 15:19 Reina 添加 好习惯清单 和 早起高效指南
 * 200318 11:45 Reina 环保和读书 typo
 * 200317 22:24 Reina 增补目录和 [环保](#环保) 内容
 * 200313 01:44 Reina 创建
