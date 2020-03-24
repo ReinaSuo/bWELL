@@ -70,11 +70,12 @@
 ### 读书元能力
 * 读书，见 [《如何阅读一本书》](https://book.douban.com/subject/25934182/)，里面介绍了四种阅读方法，适应于不同类型的书，提高读书效率。注意，效率 ≠ 速度。  
 * 读论文，见彭明辉教授  [《研究生完全求生手冊》](https://book.douban.com/subject/27108502/)   高质量的书都是由论文组成，看书的时候一定要看索引的论文。
+* [《会读才会写》](https://book.douban.com/subject/26655043/)，原名更清晰，《How to Read Journal Articles in the Social Sciences: A Very Practical Guide for Students》，阅读社会科学类学术论文的实用技巧。
 
 ### 推荐书籍
 暂时只推荐与 `bWELL` 紧密相关的书  
 1. 科普读物  
-* [《大腦當家-靈活用腦12守則.學習工作更上層樓 》](https://book.douban.com/subject/4728568/)：台湾心理学家洪兰引进的一系列科普读物。  
+* [《大腦當家-靈活用腦12守則.學習工作更上層樓 》](https://book.douban.com/subject/4728568/)：台湾心理学家洪兰引进的科普读物其一。  
 * [《改變是大腦的天性》](https://book.douban.com/subject/3143337/) ：同上 。读了这本书，会更明白为什么 `bWELL` 需要运动。  
 2. 畅销书籍  
 * [《思考，快与慢》](https://book.douban.com/subject/10785583/) ：诺贝尔得奖者 [丹尼尔·卡内曼](https://baike.baidu.com/item/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%86%85%E6%9B%BC/2742278?fromtitle=%E5%8D%A1%E5%B0%BC%E6%9B%BC&fromid=1947025&fr=aladdin)  的作品。  
@@ -91,7 +92,7 @@
 2. 理解别人的意思
 3. 让别人知道怎么跟我们沟通
   
-* 前两个可以通过练习沟通技能达到，见我的 [读书笔记](https://github.com/ReinaSuo/TopLife/blob/master/HbNonviolentCommunication.md) 里罗列了非暴力沟通的使用方法。
+* 前两个可以通过练习沟通技能达到，见我的 [读书小感](https://github.com/ReinaSuo/TopLife/blob/master/HbNonviolentCommunication.md) 里罗列了非暴力沟通的使用方法。
 	e.g. 
 	* 回应。没有回应就像打水漂没有小浪花，是沟通一大坑，会把人际关系搞得死气沉沉。  
 	* 倾听。全身心倾听，听出语言背后真正的意思，理解言不由衷的对方。  
@@ -108,10 +109,11 @@
   
 
 ## CHANGELOG
+* 200324 11:17 Reina 增补书籍链接
 * 200323 20:41 Reina 修改运动和平心静气时间
 * 200323 13:25 Reina 修改作息时间
-* 200322 12:32 Reina 增补 Tips & Trick
-* 200319 15:19 Reina 增补 好习惯清单 和 早起高效指南
+* 200322 12:32 Reina 增补 Tips&Trick
+* 200319 15:19 Reina 增补好习惯清单和早起高效指南
 * 200318 11:45 Reina 环保和读书 typo
 * 200317 22:24 Reina 增补目录和 [环保](#环保) 内容
 * 200313 01:44 Reina 创建
