@@ -39,19 +39,23 @@ all in all，只要能互相汲取力量，激励完成每个人身、心、人�
 ### 早起平心静气
 Template：
 ```
-#bWELL #CheckIn 💡这里的标签建议大家用「文本替换」模式提前设置好，节省时间，苹果系统和输入法都自带这个功能
+#bWELL #CheckIn 💡标签为了方便后期检索整理，建议大家用「文本替换」模式提前设置好，节省时间，苹果系统和输入法自带这个功能
 
 平心静气+时间+早起 check in
+Thoughts：平心静气的感受，昨天的反思或感恩等。
 Done: 昨天做了什么值得自己记住（有成就感）的事情，包括不限于`bWELL`五大主题。
 Erro：有什么失误，有什么阻碍困难。
 Need：需要调整什么，需要什么支持，需要谁的支持。
 Plan：今日计划。
 ```
+早上写这个可以帮你快速开启新的一天，切入行动模式，更多技巧看：[做个早起鸟儿](https://github.com/ReinaSuo/TopLife/blob/master/HbOrganizedMorning.md)。这个规格也可以在每天下午结束工作时用来总结，可以帮助你更快从上班状态（回家还在想方案这种挤压生活空间的状态）走出来。
+
 e.g. 
 ```
 #bWELL #CheckIn
 
 平心静气 20mins。今天早起顺利，心情比较愉悦。
+Thoughts：第二次做平心静气，比昨天坚持更久了点。/感谢家人，让我最近不用做饭超省时间超开心。
 Done：完成一个满意的文书/设计/脚本/文章。给家人打了一个长长的电话。比昨天多跑 0.5km。
 Erro：手机提示干扰太多。/早起中断。
 Need：设置取消手机 banner。/需要 `bWELL` 成员或 Ally 激励或 morning call。
@@ -105,6 +109,7 @@ e.g.
 (fn)  [进度表](https://docs.qq.com/sheet/DTHZUUnF1WnlFbVlV?tab=BB08J2&c=C4A0A0) 是为了明晰自己的收获，及时复盘，不是考勤和比较。
 
 ## CHANGELOG
-* 200325 22:35 Reina 增补 function 内容
-* 200322 12:02 Reina 增补 [Function](#Function) 和 [全天候文字交流](#全天候文字交流)
-* 200313 02:00  Reina 创建
+* 200326 21:32 Reina revise wording of [早起平心静气](#早起平心静气)
+* 200325 22:35 Reina add function 内容
+* 200322 12:02 Reina add [Function](#Function) 和 [全天候文字交流](#全天候文字交流)
+* 200313 02:00 Reina create HbGroupRule
