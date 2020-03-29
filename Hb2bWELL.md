@@ -60,7 +60,6 @@
 
 你有权利选择前者，但我希望我们一起 do something。
 
-
 1. 联合国官方日常环保行动手册
 	* [《改变从我做起》](https://www.un.org/sustainabledevelopment/zh/be-the-change/)，覆盖面全，不止狭义环保，而是可持续发展的大方向。具体行动应该根据各国情况做调整。
 	* 贴心的[《懒人的救世指南》](https://www.un.org/sustainabledevelopment/zh/takeaction/)，精简许多，可以立即执行。
@@ -98,8 +97,8 @@
 
 
 ### 读书元技能
-* 读书，见 [《如何阅读一本书》](https://book.douban.com/subject/25934182/)，里面介绍了四种阅读方法，适应于不同类型的书，提高读书效率。注意，效率 ≠ 速度。  
-* 读论文，见彭明辉教授  [《研究生完全求生手冊》](https://book.douban.com/subject/27108502/)   高质量的书都是由论文组成，看书的时候一定要看索引的论文。
+* 读书，见[《如何阅读一本书》](https://book.douban.com/subject/25934182/)，里面介绍了四种阅读方法，适应于不同类型的书，提高读书效率。注意，效率 ≠ 速度。  
+* 读论文，见彭明辉教授[《研究生完全求生手冊》](https://book.douban.com/subject/27108502/)高质量的书都是由论文组成，看书的时候一定要看索引的论文。
 * [《会读才会写》](https://book.douban.com/subject/26655043/)，原名更清晰，《How to Read Journal Articles in the Social Sciences: A Very Practical Guide for Students》，阅读社会科学类学术论文的实用技巧。
 
 
@@ -107,14 +106,13 @@
 暂时只推荐与 `bWELL` 紧密相关的书  
 1. 科普读物  
 * [《大腦當家-靈活用腦12守則.學習工作更上層樓 》](https://book.douban.com/subject/4728568/)：台湾心理学家洪兰引进的科普读物其一。  
-* [《改變是大腦的天性》](https://book.douban.com/subject/3143337/) ：同上 。读了这本书，会更明白为什么 `bWELL` 需要运动。  
+* [《改變是大腦的天性》](https://book.douban.com/subject/3143337/)：同上 。读了这本书，会更明白为什么 `bWELL` 需要运动。  
 2. 畅销书籍  
-* [《思考，快与慢》](https://book.douban.com/subject/10785583/) ：诺贝尔得奖者 [丹尼尔·卡内曼](https://baike.baidu.com/item/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%86%85%E6%9B%BC/2742278?fromtitle=%E5%8D%A1%E5%B0%BC%E6%9B%BC&fromid=1947025&fr=aladdin)  的作品。  
-* [《非暴力沟通 》](https://book.douban.com/subject/26728136/) ：一本好读的小书，读了立马就能用的那种。  
+* [《思考，快与慢》](https://book.douban.com/subject/10785583/)：诺贝尔得奖者 [丹尼尔·卡内曼](https://baike.baidu.com/item/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%86%85%E6%9B%BC/2742278?fromtitle=%E5%8D%A1%E5%B0%BC%E6%9B%BC&fromid=1947025&fr=aladdin)  的作品。  
+* [《非暴力沟通 》](https://book.douban.com/subject/26728136/)：一本好读的小书，读了立马就能用的那种。  
 3. 专业书籍学有余力再读  
-* [《认知心理学及其启示》](https://book.douban.com/subject/7067149/) ：写得很好，不过教科书，你懂得，一堆论文的堆砌，比较难啃，需要很多时间。
-* [《超越智商》](https://book.douban.com/subject/26605978/) ：另一本大作，告诉我们为什么聪明人也会做愚蠢的事，理性和感性并非对立的两面等。
-
+* [《认知心理学及其启示》](https://book.douban.com/subject/7067149/)：写得很好，不过教科书，你懂得，一堆论文的堆砌，比较难啃，需要很多时间。
+* [《超越智商》](https://book.douban.com/subject/26605978/)：另一本大作，告诉我们为什么聪明人也会做愚蠢的事，理性和感性并非对立的两面等。
 
 
 
@@ -130,11 +128,12 @@
 3. 让别人知道怎么跟我们沟通
   
 * 前两个可以通过练习沟通技能达到，见我的 [读书小感](https://github.com/ReinaSuo/TopLife/blob/master/HbNonviolentCommunication.md) 里罗列了非暴力沟通的使用方法。
+
 	e.g. 
 	* 回应。没有回应就像打水漂没有小浪花，是沟通一大坑，会把人际关系搞得死气沉沉。  
 	* 倾听。全身心倾听，听出语言背后真正的意思，理解言不由衷的对方。  
 
-* 第三个需要认识自己，建立自己的个人使用指南，让别人知道用正确姿势跟我们沟通、协作。
+* 第三个需要认识自己，建立自己的个人使用指南，让别人知道用跟我们沟通、协作的正确姿势。
   
 
 
@@ -146,20 +145,20 @@
         * O：Outcome，结果。就是实现目标后满足的状态。
         * O：Obstacle，障碍。所有阻碍愿望实现的麻烦。
         * P：Plan，计划。用「if...then...」写出行动计划。
-    * 执行意图。用「if...then...」的思考范式写计划，事半功倍，帮助自己执行计划。更多请看： [心智工具箱（4）：执行意图](http://www.yangzhiping.com/psy/implementation-intentions.html) 
-    * 用 SMART 原则验证计划。
-3. 刻意练习。这个概念来自同名畅销书籍，简单说就是大时间周期内不断重复。详见：[刻意练习的本质：一万小时定律真的错了！](https://chuansongme.com/n/1183064549057)
+    * 执行意图。用「if...then...」的思考范式写计划，事半功倍，帮助自己执行计划。更多请看 [心智工具箱（4）：执行意图](http://www.yangzhiping.com/psy/implementation-intentions.html) 
+    * 用 SMART 原则验证计划可行性。
+3. 刻意练习。这个概念来自同名畅销书籍，简单说就是大时间周期内不断重复。详见 [刻意练习的本质：一万小时定律真的错了！](https://chuansongme.com/n/1183064549057)
 4. 善用 Ally 激励法，除了群内激励，Ally 点对点激励会锦上添花。多沟通，互相肯定和支持，聆听或给出建议。英国教育家约翰·纽曼说：
     > 当许多聪明、求知欲强、富有同情心而又目光敏锐的年轻人聚到一起，即使没有人教，他们也能互相学习。他们互相交流，了解到新的思想和看法，看到新鲜事物，并且掌握独到的行为判断力。
-5. 建立自己的好习惯清单，随时查看自己已获得的能力、已养成的习惯，提醒自己坚持下去。  除了进度表，可参考我的 [好习惯清单](https://github.com/ReinaSuo/TopLife/blob/master/HbElegantHabit.md)
+5. 建立自己的好习惯清单，随时查看自己已获得的能力、已养成的习惯，提醒自己坚持下去。  除了 [进度表](https://docs.qq.com/sheet/DTHZUUnF1WnlFbVlV?tab=BB08J2&c=C4A0A0) 自检、寻找目标抱紧大腿，还可参考我的 [好习惯清单](https://github.com/ReinaSuo/TopLife/blob/master/HbElegantHabit.md)
 
 ## ChangeLog
 * 200327 09:04 Reina fix typo
 * 200326 20:10 Reina add tools and link of notes-taking
 * 200326 17:47 Reina add tools of meditation and fix typo
-* 200325 20:27 Reina 增补名言和评论
-* 200325 08:48 Reina 修改语法和增补 Tips&Trick
-* 200324 11:17 Reina 增补书籍链接
+* 200325 20:27 Reina add quotes and comment
+* 200325 08:48 Reina fix grammar and add Tips&Trick
+* 200324 11:17 Reina add links of book
 * 200323 20:41 Reina 修改运动和平心静气时间
 * 200323 13:25 Reina 修改作息时间
 * 200322 12:32 Reina 增补 Tips&Trick
